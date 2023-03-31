@@ -12,4 +12,4 @@ jobs:
         # REQUIRED_LABELS_ANY: "bug,enhancement,skip-changelog"
         # REQUIRED_LABELS_ANY_DESCRIPTION: "Select at least one label ['bug','enhancement','skip-changelog']"
         BANNED_LABELS: "bump:minor, bump:major"
-        BANNED_LABELS_DESCRIPTON: "PRs can only use `bump:patch`"
+        BANNED_LABELS_DESCRIPTION: "PRs can only use `bump:patch`"
